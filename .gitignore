@@ -1,0 +1,4 @@
+tinyllama-custom/ 
+__pycache__/ 
+*.pyc 
+.env 
